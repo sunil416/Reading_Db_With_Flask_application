@@ -1,0 +1,8 @@
+{
+    "TableName": "Employe",
+	"ColName": {
+        "Email":"varchar",
+        "HireDate":"date",
+        "City":"varchar"
+    }
+}

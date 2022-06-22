@@ -1,0 +1,14 @@
+{	"TableName": "EmployeDetails",
+	"ColName": {
+        "Email":"varchar",
+        "Emp_id":"int",
+        "First_Name":"varchar",
+        "Last_Name":"varchar",
+        "HireDate":"date",
+        "City":"varchar",
+        "HiringYear":"int",
+        "Payroll":"int",
+        "PayRoleRisePercentage":"int",
+        "RaisePayroll":"int"
+    }
+}

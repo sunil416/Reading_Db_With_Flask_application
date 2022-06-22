@@ -1,0 +1,7 @@
+{
+    "TableName": "Hike",
+	"ColName": {
+        "Year":"int",
+        "Pay_rise":"int"
+    }
+}

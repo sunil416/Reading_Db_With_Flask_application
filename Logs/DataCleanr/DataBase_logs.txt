@@ -1,0 +1,322 @@
+2022-06-18 - 19:21:54 - Module Name : DataCleanr, Message : Reading the File D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\thyroid0387_data.xlsx
+2022-06-18 - 19:21:58 - Module Name : DataCleanr, Message : File D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\thyroid0387_data.xlsx reading completed
+2022-06-18 - 19:21:58 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 30)
+2022-06-18 - 19:21:58 - Module Name : DataCleanr, Message : Request to drop Column Name: Referral_Source:
+2022-06-18 - 19:21:58 - Module Name : DataCleanr, Message : Column Name: Referral_Source: Dropped Successfuly
+2022-06-18 - 19:21:58 - Module Name : DataCleanr, Message : Replacing the Question Mark with NAN
+2022-06-18 - 19:21:58 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:21:58 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 29)
+2022-06-18 - 19:21:58 - Module Name : DataCleanr, Message : Droping the Nan Values 
+2022-06-18 - 19:21:58 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:21:58 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 22)
+2022-06-18 - 19:21:58 - Module Name : DataCleanr, Message : Replacing t with 1 
+2022-06-18 - 19:21:58 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:21:58 - Module Name : DataCleanr, Message : Replacing f with 0 
+2022-06-18 - 19:21:58 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:21:58 - Module Name : DataCleanr, Message : Converting Sex into Numeric Column called Male 
+2022-06-18 - 19:21:59 - Module Name : DataCleanr, Message : Error occured Converting the sex into the numeric values 'Sex'
+2022-06-18 - 19:21:59 - Module Name : DataCleanr, Message : Cleaning the output variable 
+2022-06-18 - 19:21:59 - Module Name : DataCleanr, Message : cleanend the Output variable 
+2022-06-18 - 19:21:59 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 22)
+2022-06-18 - 19:21:59 - Module Name : DataCleanr, Message : saving the cleaned Data 
+2022-06-18 - 19:21:59 - Module Name : DataCleanr, Message : file Saved Successfully at path D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\CleanedData\cleanedData.csv
+2022-06-18 - 19:24:31 - Module Name : DataCleanr, Message : Reading the File D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\thyroid0387_data.xlsx
+2022-06-18 - 19:24:36 - Module Name : DataCleanr, Message : File D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\thyroid0387_data.xlsx reading completed
+2022-06-18 - 19:24:36 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 30)
+2022-06-18 - 19:24:36 - Module Name : DataCleanr, Message : Request to drop Column Name: Referral_Source:
+2022-06-18 - 19:24:36 - Module Name : DataCleanr, Message : Column Name: Referral_Source: Dropped Successfuly
+2022-06-18 - 19:24:36 - Module Name : DataCleanr, Message : Replacing the Question Mark with NAN
+2022-06-18 - 19:24:36 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:24:36 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 29)
+2022-06-18 - 19:24:36 - Module Name : DataCleanr, Message : Droping the Nan Values 
+2022-06-18 - 19:24:36 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:24:36 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 22)
+2022-06-18 - 19:24:36 - Module Name : DataCleanr, Message : Replacing t with 1 
+2022-06-18 - 19:24:36 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:24:36 - Module Name : DataCleanr, Message : Replacing f with 0 
+2022-06-18 - 19:24:37 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:24:37 - Module Name : DataCleanr, Message : Converting Sex into Numeric Column called Male 
+2022-06-18 - 19:24:37 - Module Name : DataCleanr, Message : Error occured Converting the sex into the numeric values 'Sex'
+2022-06-18 - 19:24:37 - Module Name : DataCleanr, Message : Cleaning the output variable 
+2022-06-18 - 19:24:37 - Module Name : DataCleanr, Message : cleanend the Output variable 
+2022-06-18 - 19:24:37 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 22)
+2022-06-18 - 19:24:37 - Module Name : DataCleanr, Message : saving the cleaned Data 
+2022-06-18 - 19:24:37 - Module Name : DataCleanr, Message : file Saved Successfully at path D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\CleanedData\cleanedData.csv
+2022-06-18 - 19:25:24 - Module Name : DataCleanr, Message : Reading the File D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\thyroid0387_data.xlsx
+2022-06-18 - 19:25:28 - Module Name : DataCleanr, Message : File D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\thyroid0387_data.xlsx reading completed
+2022-06-18 - 19:25:28 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 30)
+2022-06-18 - 19:25:28 - Module Name : DataCleanr, Message : Request to drop Column Name: Referral_Source:
+2022-06-18 - 19:25:28 - Module Name : DataCleanr, Message : Column Name: Referral_Source: Dropped Successfuly
+2022-06-18 - 19:25:28 - Module Name : DataCleanr, Message : Replacing the Question Mark with NAN
+2022-06-18 - 19:25:28 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:25:28 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 29)
+2022-06-18 - 19:25:28 - Module Name : DataCleanr, Message : Droping the Nan Values 
+2022-06-18 - 19:25:28 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:25:28 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 22)
+2022-06-18 - 19:25:28 - Module Name : DataCleanr, Message : Replacing t with 1 
+2022-06-18 - 19:25:28 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:25:28 - Module Name : DataCleanr, Message : Replacing f with 0 
+2022-06-18 - 19:25:28 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:25:28 - Module Name : DataCleanr, Message : Converting Sex into Numeric Column called Male 
+2022-06-18 - 19:25:28 - Module Name : DataCleanr, Message : Error occured Converting the sex into the numeric values 'Sex'
+2022-06-18 - 19:25:28 - Module Name : DataCleanr, Message : Cleaning the output variable 
+2022-06-18 - 19:25:28 - Module Name : DataCleanr, Message : cleanend the Output variable 
+2022-06-18 - 19:25:28 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 22)
+2022-06-18 - 19:25:28 - Module Name : DataCleanr, Message : saving the cleaned Data 
+2022-06-18 - 19:25:28 - Module Name : DataCleanr, Message : file Saved Successfully at path D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\CleanedData\cleanedData.csv
+2022-06-18 - 19:25:46 - Module Name : DataCleanr, Message : Reading the File D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\thyroid0387_data.xlsx
+2022-06-18 - 19:25:50 - Module Name : DataCleanr, Message : File D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\thyroid0387_data.xlsx reading completed
+2022-06-18 - 19:25:50 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 30)
+2022-06-18 - 19:25:50 - Module Name : DataCleanr, Message : Request to drop Column Name: Referral_Source:
+2022-06-18 - 19:25:51 - Module Name : DataCleanr, Message : Column Name: Referral_Source: Dropped Successfuly
+2022-06-18 - 19:25:51 - Module Name : DataCleanr, Message : Replacing the Question Mark with NAN
+2022-06-18 - 19:25:51 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:25:51 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 29)
+2022-06-18 - 19:25:51 - Module Name : DataCleanr, Message : Droping the Nan Values 
+2022-06-18 - 19:25:51 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:25:51 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 22)
+2022-06-18 - 19:25:51 - Module Name : DataCleanr, Message : Replacing t with 1 
+2022-06-18 - 19:25:51 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:25:51 - Module Name : DataCleanr, Message : Replacing f with 0 
+2022-06-18 - 19:25:51 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:25:51 - Module Name : DataCleanr, Message : Converting Sex into Numeric Column called Male 
+2022-06-18 - 19:25:51 - Module Name : DataCleanr, Message : Error occured Converting the sex into the numeric values 'Sex'
+2022-06-18 - 19:25:51 - Module Name : DataCleanr, Message : Cleaning the output variable 
+2022-06-18 - 19:25:51 - Module Name : DataCleanr, Message : cleanend the Output variable 
+2022-06-18 - 19:25:51 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 22)
+2022-06-18 - 19:25:51 - Module Name : DataCleanr, Message : saving the cleaned Data 
+2022-06-18 - 19:25:51 - Module Name : DataCleanr, Message : file Saved Successfully at path D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\CleanedData\cleanedData.csv
+2022-06-18 - 19:27:11 - Module Name : DataCleanr, Message : Reading the File D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\thyroid0387_data.xlsx
+2022-06-18 - 19:27:14 - Module Name : DataCleanr, Message : File D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\thyroid0387_data.xlsx reading completed
+2022-06-18 - 19:27:14 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 30)
+2022-06-18 - 19:27:14 - Module Name : DataCleanr, Message : Request to drop Column Name: Referral_Source:
+2022-06-18 - 19:27:14 - Module Name : DataCleanr, Message : Column Name: Referral_Source: Dropped Successfuly
+2022-06-18 - 19:27:14 - Module Name : DataCleanr, Message : Replacing the Question Mark with NAN
+2022-06-18 - 19:27:14 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:27:14 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 29)
+2022-06-18 - 19:27:15 - Module Name : DataCleanr, Message : Droping the Nan Values 
+2022-06-18 - 19:27:15 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:27:15 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 22)
+2022-06-18 - 19:27:15 - Module Name : DataCleanr, Message : Replacing t with 1 
+2022-06-18 - 19:27:15 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:27:15 - Module Name : DataCleanr, Message : Replacing f with 0 
+2022-06-18 - 19:27:15 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:27:15 - Module Name : DataCleanr, Message : Converting Sex into Numeric Column called Male 
+2022-06-18 - 19:27:15 - Module Name : DataCleanr, Message : Error occured Converting the sex into the numeric values
+2022-06-18 - 19:27:15 - Module Name : DataCleanr, Message : Cleaning the output variable 
+2022-06-18 - 19:27:15 - Module Name : DataCleanr, Message : cleanend the Output variable 
+2022-06-18 - 19:27:15 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 22)
+2022-06-18 - 19:27:15 - Module Name : DataCleanr, Message : saving the cleaned Data 
+2022-06-18 - 19:27:15 - Module Name : DataCleanr, Message : file Saved Successfully at path D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\CleanedData\cleanedData.csv
+2022-06-18 - 19:30:11 - Module Name : DataCleanr, Message : Reading the File D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\thyroid0387_data.xlsx
+2022-06-18 - 19:30:15 - Module Name : DataCleanr, Message : File D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\thyroid0387_data.xlsx reading completed
+2022-06-18 - 19:30:15 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 30)
+2022-06-18 - 19:30:15 - Module Name : DataCleanr, Message : Request to drop Column Name: Referral_Source:
+2022-06-18 - 19:30:15 - Module Name : DataCleanr, Message : Column Name: Referral_Source: Dropped Successfuly
+2022-06-18 - 19:30:15 - Module Name : DataCleanr, Message : Replacing the Question Mark with NAN
+2022-06-18 - 19:30:15 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:30:15 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 29)
+2022-06-18 - 19:30:15 - Module Name : DataCleanr, Message : Droping the Nan Values 
+2022-06-18 - 19:30:15 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:30:15 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 22)
+2022-06-18 - 19:30:15 - Module Name : DataCleanr, Message : Replacing t with 1 
+2022-06-18 - 19:30:15 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:30:15 - Module Name : DataCleanr, Message : Replacing f with 0 
+2022-06-18 - 19:30:15 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:30:15 - Module Name : DataCleanr, Message : Converting Sex into Numeric Column called Male 
+2022-06-18 - 19:30:15 - Module Name : DataCleanr, Message : Error occured Converting the sex into the numeric values
+2022-06-18 - 19:30:15 - Module Name : DataCleanr, Message : Cleaning the output variable 
+2022-06-18 - 19:30:15 - Module Name : DataCleanr, Message : cleanend the Output variable 
+2022-06-18 - 19:30:15 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 22)
+2022-06-18 - 19:30:15 - Module Name : DataCleanr, Message : saving the cleaned Data 
+2022-06-18 - 19:30:15 - Module Name : DataCleanr, Message : file Saved Successfully at path D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\CleanedData\cleanedData.csv
+2022-06-18 - 19:34:22 - Module Name : DataCleanr, Message : Reading the File D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\thyroid0387_data.xlsx
+2022-06-18 - 19:34:27 - Module Name : DataCleanr, Message : File D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\thyroid0387_data.xlsx reading completed
+2022-06-18 - 19:34:27 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 30)
+2022-06-18 - 19:34:27 - Module Name : DataCleanr, Message : Request to drop Column Name: Referral_Source:
+2022-06-18 - 19:34:27 - Module Name : DataCleanr, Message : Column Name: Referral_Source: Dropped Successfuly
+2022-06-18 - 19:34:27 - Module Name : DataCleanr, Message : Replacing the Question Mark with NAN
+2022-06-18 - 19:34:27 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:34:27 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 29)
+2022-06-18 - 19:34:27 - Module Name : DataCleanr, Message : Droping the Nan Values 
+2022-06-18 - 19:34:27 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:34:27 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 22)
+2022-06-18 - 19:34:27 - Module Name : DataCleanr, Message : Replacing t with 1 
+2022-06-18 - 19:34:27 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:34:27 - Module Name : DataCleanr, Message : Replacing f with 0 
+2022-06-18 - 19:34:27 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:34:27 - Module Name : DataCleanr, Message : Converting Sex into Numeric Column called Male 
+2022-06-18 - 19:34:27 - Module Name : DataCleanr, Message : Error occured Converting the sex into the numeric values
+2022-06-18 - 19:34:27 - Module Name : DataCleanr, Message : Cleaning the output variable 
+2022-06-18 - 19:34:27 - Module Name : DataCleanr, Message : cleanend the Output variable 
+2022-06-18 - 19:34:27 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 22)
+2022-06-18 - 19:34:27 - Module Name : DataCleanr, Message : saving the cleaned Data 
+2022-06-18 - 19:34:27 - Module Name : DataCleanr, Message : file Saved Successfully at path D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\CleanedData\cleanedData.csv
+2022-06-18 - 19:35:11 - Module Name : DataCleanr, Message : Reading the File D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\thyroid0387_data.xlsx
+2022-06-18 - 19:35:15 - Module Name : DataCleanr, Message : File D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\thyroid0387_data.xlsx reading completed
+2022-06-18 - 19:35:15 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 30)
+2022-06-18 - 19:35:15 - Module Name : DataCleanr, Message : Request to drop Column Name: Referral_Source:
+2022-06-18 - 19:35:16 - Module Name : DataCleanr, Message : Column Name: Referral_Source: Dropped Successfuly
+2022-06-18 - 19:35:16 - Module Name : DataCleanr, Message : Replacing the Question Mark with NAN
+2022-06-18 - 19:35:16 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:35:16 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 29)
+2022-06-18 - 19:35:16 - Module Name : DataCleanr, Message : Droping the Nan Values 
+2022-06-18 - 19:35:16 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:35:16 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 22)
+2022-06-18 - 19:35:16 - Module Name : DataCleanr, Message : Replacing t with 1 
+2022-06-18 - 19:35:16 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:35:16 - Module Name : DataCleanr, Message : Replacing f with 0 
+2022-06-18 - 19:35:16 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:35:16 - Module Name : DataCleanr, Message : Converting Sex into Numeric Column called Male 
+2022-06-18 - 19:35:16 - Module Name : DataCleanr, Message : Error occured Converting the sex into the numeric values 'Sex'
+2022-06-18 - 19:35:16 - Module Name : DataCleanr, Message : Cleaning the output variable 
+2022-06-18 - 19:35:16 - Module Name : DataCleanr, Message : cleanend the Output variable 
+2022-06-18 - 19:35:16 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 22)
+2022-06-18 - 19:35:16 - Module Name : DataCleanr, Message : saving the cleaned Data 
+2022-06-18 - 19:35:16 - Module Name : DataCleanr, Message : file Saved Successfully at path D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\CleanedData\cleanedData.csv
+2022-06-18 - 19:40:34 - Module Name : DataCleanr, Message : Reading the File D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\thyroid0387_data.xlsx
+2022-06-18 - 19:40:40 - Module Name : DataCleanr, Message : File D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\thyroid0387_data.xlsx reading completed
+2022-06-18 - 19:40:40 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 30)
+2022-06-18 - 19:40:40 - Module Name : DataCleanr, Message : Request to drop Column Name: Referral_Source:
+2022-06-18 - 19:40:40 - Module Name : DataCleanr, Message : Column Name: Referral_Source: Dropped Successfuly
+2022-06-18 - 19:40:40 - Module Name : DataCleanr, Message : Replacing the Question Mark with NAN
+2022-06-18 - 19:40:40 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:40:40 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 29)
+2022-06-18 - 19:40:40 - Module Name : DataCleanr, Message : Droping the Nan Values 
+2022-06-18 - 19:40:40 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:40:40 - Module Name : DataCleanr, Message : Shape of the data =  (20, 29)
+2022-06-18 - 19:40:40 - Module Name : DataCleanr, Message : Replacing t with 1 
+2022-06-18 - 19:40:40 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:40:40 - Module Name : DataCleanr, Message : Replacing f with 0 
+2022-06-18 - 19:40:40 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:40:40 - Module Name : DataCleanr, Message : Converting Sex into Numeric Column called Male 
+2022-06-18 - 19:40:40 - Module Name : DataCleanr, Message : Successfully created the Dummies 
+2022-06-18 - 19:40:40 - Module Name : DataCleanr, Message : Successfully created the Dummies 
+2022-06-18 - 19:40:40 - Module Name : DataCleanr, Message : Successfuly able droped the colum SEX
+2022-06-18 - 19:40:40 - Module Name : DataCleanr, Message : Cleaning the output variable 
+2022-06-18 - 19:40:40 - Module Name : DataCleanr, Message : cleanend the Output variable 
+2022-06-18 - 19:40:40 - Module Name : DataCleanr, Message : Shape of the data =  (20, 29)
+2022-06-18 - 19:40:40 - Module Name : DataCleanr, Message : saving the cleaned Data 
+2022-06-18 - 19:40:40 - Module Name : DataCleanr, Message : file Saved Successfully at path D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\CleanedData\cleanedData.csv
+2022-06-18 - 19:42:00 - Module Name : DataCleanr, Message : Reading the File D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\thyroid0387_data.xlsx
+2022-06-18 - 19:42:06 - Module Name : DataCleanr, Message : File D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\thyroid0387_data.xlsx reading completed
+2022-06-18 - 19:42:06 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 30)
+2022-06-18 - 19:42:06 - Module Name : DataCleanr, Message : Request to drop Column Name: Referral_Source:
+2022-06-18 - 19:42:06 - Module Name : DataCleanr, Message : Column Name: Referral_Source: Dropped Successfuly
+2022-06-18 - 19:42:06 - Module Name : DataCleanr, Message : Replacing the Question Mark with NAN
+2022-06-18 - 19:42:06 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:42:06 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 29)
+2022-06-18 - 19:42:07 - Module Name : DataCleanr, Message : Droping the Nan Values 
+2022-06-18 - 19:42:07 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:42:07 - Module Name : DataCleanr, Message : Shape of the data =  (20, 29)
+2022-06-18 - 19:42:07 - Module Name : DataCleanr, Message : Replacing t with 1 
+2022-06-18 - 19:42:07 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:42:07 - Module Name : DataCleanr, Message : Replacing f with 0 
+2022-06-18 - 19:42:07 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:42:07 - Module Name : DataCleanr, Message : Converting Sex into Numeric Column called Male 
+2022-06-18 - 19:42:07 - Module Name : DataCleanr, Message : Successfully created the Dummies 
+2022-06-18 - 19:42:07 - Module Name : DataCleanr, Message : Successfully created the Dummies 
+2022-06-18 - 19:42:07 - Module Name : DataCleanr, Message : Successfuly able droped the colum SEX
+2022-06-18 - 19:42:07 - Module Name : DataCleanr, Message : Cleaning the output variable 
+2022-06-18 - 19:42:07 - Module Name : DataCleanr, Message : cleanend the Output variable 
+2022-06-18 - 19:42:07 - Module Name : DataCleanr, Message : Shape of the data =  (20, 29)
+2022-06-18 - 19:42:07 - Module Name : DataCleanr, Message : saving the cleaned Data 
+2022-06-18 - 19:42:07 - Module Name : DataCleanr, Message : file Saved Successfully at path D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\CleanedData\cleanedData.csv
+2022-06-18 - 19:43:01 - Module Name : DataCleanr, Message : Reading the File D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\thyroid0387_data.xlsx
+2022-06-18 - 19:43:06 - Module Name : DataCleanr, Message : File D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\thyroid0387_data.xlsx reading completed
+2022-06-18 - 19:43:06 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 30)
+2022-06-18 - 19:43:06 - Module Name : DataCleanr, Message : Request to drop Column Name: Referral_Source:
+2022-06-18 - 19:43:06 - Module Name : DataCleanr, Message : Column Name: Referral_Source: Dropped Successfuly
+2022-06-18 - 19:43:06 - Module Name : DataCleanr, Message : Replacing the Question Mark with NAN
+2022-06-18 - 19:43:06 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:43:06 - Module Name : DataCleanr, Message : saving the cleaned Data 
+2022-06-18 - 19:43:06 - Module Name : DataCleanr, Message : file Saved Successfully at path D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\CleanedData\cleanedData.csv
+2022-06-18 - 19:43:06 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 29)
+2022-06-18 - 19:43:06 - Module Name : DataCleanr, Message : Droping the Nan Values 
+2022-06-18 - 19:43:06 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:43:06 - Module Name : DataCleanr, Message : Shape of the data =  (20, 29)
+2022-06-18 - 19:43:06 - Module Name : DataCleanr, Message : Replacing t with 1 
+2022-06-18 - 19:43:06 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:43:06 - Module Name : DataCleanr, Message : Replacing f with 0 
+2022-06-18 - 19:43:06 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:43:06 - Module Name : DataCleanr, Message : Converting Sex into Numeric Column called Male 
+2022-06-18 - 19:43:06 - Module Name : DataCleanr, Message : Successfully created the Dummies 
+2022-06-18 - 19:43:06 - Module Name : DataCleanr, Message : Successfully created the Dummies 
+2022-06-18 - 19:43:06 - Module Name : DataCleanr, Message : Successfuly able droped the colum SEX
+2022-06-18 - 19:43:06 - Module Name : DataCleanr, Message : Cleaning the output variable 
+2022-06-18 - 19:43:06 - Module Name : DataCleanr, Message : cleanend the Output variable 
+2022-06-18 - 19:43:06 - Module Name : DataCleanr, Message : Shape of the data =  (20, 29)
+2022-06-18 - 19:43:06 - Module Name : DataCleanr, Message : saving the cleaned Data 
+2022-06-18 - 19:43:06 - Module Name : DataCleanr, Message : file Saved Successfully at path D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\CleanedData\cleanedData.csv
+2022-06-18 - 19:43:30 - Module Name : DataCleanr, Message : Reading the File D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\thyroid0387_data.xlsx
+2022-06-18 - 19:43:34 - Module Name : DataCleanr, Message : File D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\thyroid0387_data.xlsx reading completed
+2022-06-18 - 19:43:34 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 30)
+2022-06-18 - 19:43:34 - Module Name : DataCleanr, Message : Request to drop Column Name: Referral_Source:
+2022-06-18 - 19:43:34 - Module Name : DataCleanr, Message : Column Name: Referral_Source: Dropped Successfuly
+2022-06-18 - 19:43:34 - Module Name : DataCleanr, Message : Replacing the Question Mark with NAN
+2022-06-18 - 19:43:34 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:43:34 - Module Name : DataCleanr, Message : saving the cleaned Data 
+2022-06-18 - 19:43:34 - Module Name : DataCleanr, Message : file Saved Successfully at path D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\CleanedData\cleanedData.csv
+2022-06-18 - 19:43:34 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 29)
+2022-06-18 - 19:43:34 - Module Name : DataCleanr, Message : Droping the Nan Values 
+2022-06-18 - 19:43:34 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:43:34 - Module Name : DataCleanr, Message : Shape of the data =  (20, 29)
+2022-06-18 - 19:43:34 - Module Name : DataCleanr, Message : Replacing t with 1 
+2022-06-18 - 19:43:34 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:43:34 - Module Name : DataCleanr, Message : Replacing f with 0 
+2022-06-18 - 19:43:35 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:43:35 - Module Name : DataCleanr, Message : Converting Sex into Numeric Column called Male 
+2022-06-18 - 19:43:35 - Module Name : DataCleanr, Message : Successfully created the Dummies 
+2022-06-18 - 19:43:35 - Module Name : DataCleanr, Message : Successfully created the Dummies 
+2022-06-18 - 19:43:35 - Module Name : DataCleanr, Message : Successfuly able droped the colum SEX
+2022-06-18 - 19:43:35 - Module Name : DataCleanr, Message : Cleaning the output variable 
+2022-06-18 - 19:43:35 - Module Name : DataCleanr, Message : cleanend the Output variable 
+2022-06-18 - 19:43:35 - Module Name : DataCleanr, Message : Shape of the data =  (20, 29)
+2022-06-18 - 19:45:35 - Module Name : DataCleanr, Message : Reading the File D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\thyroid0387_data.xlsx
+2022-06-18 - 19:45:39 - Module Name : DataCleanr, Message : File D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\thyroid0387_data.xlsx reading completed
+2022-06-18 - 19:45:39 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 30)
+2022-06-18 - 19:45:39 - Module Name : DataCleanr, Message : Request to drop Column Name: Referral_Source:
+2022-06-18 - 19:45:39 - Module Name : DataCleanr, Message : Column Name: Referral_Source: Dropped Successfuly
+2022-06-18 - 19:45:39 - Module Name : DataCleanr, Message : Replacing the Question Mark with NAN
+2022-06-18 - 19:45:39 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:45:39 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 29)
+2022-06-18 - 19:45:39 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 29)
+2022-06-18 - 19:45:39 - Module Name : DataCleanr, Message : Replacing t with 1 
+2022-06-18 - 19:45:39 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:45:39 - Module Name : DataCleanr, Message : Replacing f with 0 
+2022-06-18 - 19:45:39 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:45:39 - Module Name : DataCleanr, Message : Converting Sex into Numeric Column called Male 
+2022-06-18 - 19:45:39 - Module Name : DataCleanr, Message : Successfully created the Dummies 
+2022-06-18 - 19:45:39 - Module Name : DataCleanr, Message : Successfully created the Dummies 
+2022-06-18 - 19:45:39 - Module Name : DataCleanr, Message : Successfuly able droped the colum SEX
+2022-06-18 - 19:45:39 - Module Name : DataCleanr, Message : Cleaning the output variable 
+2022-06-18 - 19:45:39 - Module Name : DataCleanr, Message : cleanend the Output variable 
+2022-06-18 - 19:45:39 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 29)
+2022-06-18 - 19:45:39 - Module Name : DataCleanr, Message : saving the cleaned Data 
+2022-06-18 - 19:45:39 - Module Name : DataCleanr, Message : file Saved Successfully at path D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\CleanedData\cleanedData.csv
+2022-06-18 - 19:49:50 - Module Name : DataCleanr, Message : Reading the File D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\thyroid0387_data.xlsx
+2022-06-18 - 19:49:55 - Module Name : DataCleanr, Message : File D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\thyroid0387_data.xlsx reading completed
+2022-06-18 - 19:49:55 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 30)
+2022-06-18 - 19:49:55 - Module Name : DataCleanr, Message : Request to drop Column Name: Referral_Source:
+2022-06-18 - 19:49:55 - Module Name : DataCleanr, Message : Column Name: Referral_Source: Dropped Successfuly
+2022-06-18 - 19:49:55 - Module Name : DataCleanr, Message : Replacing the Question Mark with NAN
+2022-06-18 - 19:49:55 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:49:55 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 29)
+2022-06-18 - 19:49:55 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 29)
+2022-06-18 - 19:49:55 - Module Name : DataCleanr, Message : Replacing t with 1 
+2022-06-18 - 19:49:55 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:49:55 - Module Name : DataCleanr, Message : Replacing f with 0 
+2022-06-18 - 19:49:55 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:49:55 - Module Name : DataCleanr, Message : Converting Sex into Numeric Column called Male 
+2022-06-18 - 19:49:55 - Module Name : DataCleanr, Message : Successfully created the Dummies 
+2022-06-18 - 19:49:55 - Module Name : DataCleanr, Message : Successfully created the Dummies 
+2022-06-18 - 19:49:55 - Module Name : DataCleanr, Message : Successfuly able droped the colum SEX
+2022-06-18 - 19:49:55 - Module Name : DataCleanr, Message : Cleaning the output variable 
+2022-06-18 - 19:49:55 - Module Name : DataCleanr, Message : cleanend the Output variable 
+2022-06-18 - 19:49:55 - Module Name : DataCleanr, Message : Replacing Nan with 0 
+2022-06-18 - 19:49:55 - Module Name : DataCleanr, Message : Success
+2022-06-18 - 19:49:55 - Module Name : DataCleanr, Message : Droping the Nan Values 
+2022-06-18 - 19:49:55 - Module Name : DataCleanr, Message : Successfuly
+2022-06-18 - 19:49:55 - Module Name : DataCleanr, Message : Shape of the data =  (9172, 29)
+2022-06-18 - 19:49:55 - Module Name : DataCleanr, Message : saving the cleaned Data 
+2022-06-18 - 19:49:55 - Module Name : DataCleanr, Message : file Saved Successfully at path D:\Sunil Personal\ML Books\Learning\Thyroid Disease Detection\Repo\Thyroid_Disease_Detection\DataSource\CleanedData\cleanedData.csv
